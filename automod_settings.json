@@ -1,0 +1,38 @@
+{
+  "1341159355369656410": {
+    "spam_threshold": 5,
+    "spam_window": 10,
+    "duplicate_threshold": 3,
+    "caps_threshold": 0.7,
+    "link_whitelist": [
+      "discord.gg",
+      "youtube.com",
+      "youtu.be",
+      "twitch.tv"
+    ],
+    "bad_words": [
+      "spam",
+      "scam",
+      "hack",
+      "cheat",
+      "bot",
+      "fake",
+      "virus",
+      "malware",
+      "phishing",
+      "stealing",
+      "account",
+      "password"
+    ],
+    "max_mentions": 5,
+    "max_emojis": 10,
+    "invite_filter": true,
+    "link_filter": true,
+    "caps_filter": true,
+    "spam_filter": true,
+    "duplicate_filter": true,
+    "mention_filter": true,
+    "emoji_filter": true,
+    "automod_enabled": true
+  }
+}

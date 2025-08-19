@@ -1,0 +1,49 @@
+{
+  "1131287355005882440": {
+    "1341159355369656410": {
+      "total_commands": 59,
+      "commands": {
+        "activity_chart": 3,
+        "automod_toggle": 1,
+        "automod_stats": 1,
+        "meme": 11,
+        "status": 2,
+        "set_status": 1,
+        "anime_genres": 2,
+        "anime_streaming": 2,
+        "anime_platforms": 2,
+        "anime_where_to_watch": 2,
+        "coinflip": 1,
+        "avatar": 2,
+        "quote": 1,
+        "play": 5,
+        "nickname": 3,
+        "queue": 1,
+        "join": 4,
+        "anime_popular": 1,
+        "anime_recommend": 1,
+        "anime_search": 1,
+        "balance": 1,
+        "dice": 2,
+        "get_favorite_character": 1,
+        "jarvis": 1,
+        "leaderboard": 1,
+        "random_streaming": 1,
+        "welcome_test": 2,
+        "welcome_role_info": 1,
+        "streaming_sites": 1,
+        "roblox_link": 1
+      },
+      "last_command": "2025-07-14T12:37:48.517160"
+    }
+  },
+  "863176856505417728": {
+    "1341159355369656410": {
+      "total_commands": 1,
+      "commands": {
+        "anime_genres": 1
+      },
+      "last_command": "2025-07-14T06:30:18.613139"
+    }
+  }
+}

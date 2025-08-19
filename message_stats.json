@@ -1,0 +1,126 @@
+{
+  "978090899206729768": {
+    "1341159355369656410": {
+      "total_messages": 1,
+      "total_characters": 9,
+      "channels": {
+        "1354570001562206299": {
+          "messages": 1,
+          "characters": 9
+        }
+      },
+      "daily_activity": {
+        "2025-07-14": {
+          "messages": 1,
+          "characters": 9
+        }
+      },
+      "first_message": "2025-07-14T05:59:15.737436",
+      "last_message": "2025-07-14T05:59:15.737447"
+    }
+  },
+  "1131287355005882440": {
+    "1341159355369656410": {
+      "total_messages": 42,
+      "total_characters": 900,
+      "channels": {
+        "1394169012698615919": {
+          "messages": 6,
+          "characters": 136
+        },
+        "1341159355818578021": {
+          "messages": 20,
+          "characters": 434
+        },
+        "1380395464586952834": {
+          "messages": 6,
+          "characters": 70
+        },
+        "1354570001562206299": {
+          "messages": 10,
+          "characters": 260
+        }
+      },
+      "daily_activity": {
+        "2025-07-14": {
+          "messages": 42,
+          "characters": 900
+        }
+      },
+      "first_message": "2025-07-14T06:11:29.119537",
+      "last_message": "2025-07-14T13:08:42.935238"
+    }
+  },
+  "863176856505417728": {
+    "1341159355369656410": {
+      "total_messages": 8,
+      "total_characters": 106,
+      "channels": {
+        "1341159355818578021": {
+          "messages": 8,
+          "characters": 106
+        }
+      },
+      "daily_activity": {
+        "2025-07-14": {
+          "messages": 8,
+          "characters": 106
+        }
+      },
+      "first_message": "2025-07-14T06:29:51.783905",
+      "last_message": "2025-07-14T06:30:53.358690"
+    }
+  },
+  "985396147466166333": {
+    "1341159355369656410": {
+      "total_messages": 4,
+      "total_characters": 6,
+      "channels": {
+        "1341159355818578021": {
+          "messages": 4,
+          "characters": 6
+        }
+      },
+      "daily_activity": {
+        "2025-07-14": {
+          "messages": 4,
+          "characters": 6
+        }
+      },
+      "first_message": "2025-07-14T06:33:06.009347",
+      "last_message": "2025-07-14T06:34:06.465653"
+    }
+  },
+  "884533336939327580": {
+    "1341159355369656410": {
+      "total_messages": 11,
+      "total_characters": 473,
+      "channels": {
+        "1341159355818578021": {
+          "messages": 1,
+          "characters": 67
+        },
+        "1341162461579182192": {
+          "messages": 2,
+          "characters": 26
+        },
+        "1380395464586952834": {
+          "messages": 2,
+          "characters": 230
+        },
+        "1354570001562206299": {
+          "messages": 6,
+          "characters": 150
+        }
+      },
+      "daily_activity": {
+        "2025-07-14": {
+          "messages": 11,
+          "characters": 473
+        }
+      },
+      "first_message": "2025-07-14T11:23:38.511860",
+      "last_message": "2025-07-14T13:08:53.082931"
+    }
+  }
+}

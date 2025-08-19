@@ -1,0 +1,42 @@
+{
+  "1341159355369656410": {
+    "1131287355005882440": {
+      "total_messages": 20,
+      "total_characters": 450,
+      "commands_used": {
+        "join": 2,
+        "play": 3,
+        "meme": 1,
+        "roblox_link": 1
+      },
+      "activity_by_hour": {
+        "11": 10,
+        "13": 10
+      },
+      "channels_activity": {
+        "1394169012698615919": 4,
+        "1380395464586952834": 6,
+        "1354570001562206299": 10
+      },
+      "daily_streak": 1,
+      "longest_streak": 1,
+      "last_message_date": "2025-07-14"
+    },
+    "884533336939327580": {
+      "total_messages": 8,
+      "total_characters": 380,
+      "commands_used": {},
+      "activity_by_hour": {
+        "11": 2,
+        "13": 6
+      },
+      "channels_activity": {
+        "1380395464586952834": 2,
+        "1354570001562206299": 6
+      },
+      "daily_streak": 1,
+      "longest_streak": 1,
+      "last_message_date": "2025-07-14"
+    }
+  }
+}
